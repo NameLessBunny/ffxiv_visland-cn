@@ -16,7 +16,7 @@ https://github.com/AtmoOmen/DalamudPlugins
 
 自用优化路线预设：[https://github.com/NameLessBunny/ffxiv_visland-cn.wiki.git](https://github.com/NameLessBunny/ffxiv_visland-cn/wiki)
 
-## 推荐使用下午库链中`Automaton`插件的`Achievement Tracker`功能实时观察成就进度
+## 推荐使用下文库链中`Automaton`插件的`Achievement Tracker`功能实时观察成就进度
 
 ```
 https://puni.sh/api/repository/croizat
