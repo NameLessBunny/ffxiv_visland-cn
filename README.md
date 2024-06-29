@@ -14,8 +14,7 @@ https://github.com/AtmoOmen/DalamudPlugins
 
 部分已汉化路线预设: https://github.com/AtmoOmen/ffxiv_visland-cn/wiki
 
-自用优化路线预设：https://github.com/NameLessBunny/ffxiv_visland-cn.wiki
-
+自用优化路线预设：https://github.com/NameLessBunny/ffxiv_visland-cn.wiki.git
 
 
 
